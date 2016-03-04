@@ -4,9 +4,7 @@
   "engines": {},
   "description": "My GitHub Pages site",
   "main": "",
-  "scripts": {
-    "lint": "jshint *.js http/*.js"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/Densaugeo/Densaugeo.github.io"
@@ -19,7 +17,5 @@
     "hematite": "git://github.com/Densaugeo/Hematite.git#1.1.1",
     "simplegps": "git://github.com/Densaugeo/SimpleGPS.git#0.1.1"
   },
-  "devDependencies": {
-    "jshint": "~2.9.1"
-  }
+  "devDependencies": {}
 }
