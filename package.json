@@ -13,6 +13,7 @@
   "author": "Densaugeo",
   "license": "MIT",
   "dependencies": {
+    "castle": "git://github.com/Densaugeo/Castle.git#0.1.2",
     "font-awesome": "~4.5.0",
     "hematite": "git://github.com/Densaugeo/Hematite.git#1.1.1",
     "simplegps": "git://github.com/Densaugeo/SimpleGPS.git#0.1.1",
