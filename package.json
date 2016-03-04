@@ -15,7 +15,8 @@
   "dependencies": {
     "font-awesome": "~4.5.0",
     "hematite": "git://github.com/Densaugeo/Hematite.git#1.1.1",
-    "simplegps": "git://github.com/Densaugeo/SimpleGPS.git#0.1.1"
+    "simplegps": "git://github.com/Densaugeo/SimpleGPS.git#0.1.1",
+    "waves": "git://github.com/Densaugeo/Waves.git#0.1.0"
   },
   "devDependencies": {}
 }
