@@ -1,17 +1,21 @@
 {
   "name": "densaugeo.github.io",
-  "version": "0.1.0",
-  "engines": {},
+  "version": "0.1.1",
   "description": "My GitHub Pages site",
+  "keywords": [],
+  "homepage": "http://madengineersworkshop.net/",
+  "bugs": "https://github.com/Densaugeo/Densaugeo.github.io/issues",
+  "license": "MIT",
+  "author": "Densaugeo (http://madengineersworkshop.net/)",
+  "contributors": [],
+  "files": [],
   "main": "",
-  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/Densaugeo/Densaugeo.github.io"
   },
-  "keywords": [],
-  "author": "Densaugeo",
-  "license": "MIT",
+  "scripts": {},
+  "config": {},
   "dependencies": {
     "castle": "git://github.com/Densaugeo/Castle.git#0.1.2",
     "font-awesome": "~4.5.0",
@@ -20,5 +24,6 @@
     "simplegps": "git://github.com/Densaugeo/SimpleGPS.git#0.1.1",
     "waves": "git://github.com/Densaugeo/Waves.git#0.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {}
 }
