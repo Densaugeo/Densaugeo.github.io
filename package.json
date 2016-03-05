@@ -1,6 +1,6 @@
 {
   "name": "densaugeo.github.io",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "My GitHub Pages site",
   "keywords": [],
   "homepage": "http://madengineersworkshop.net/",
@@ -12,7 +12,7 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Densaugeo/Densaugeo.github.io"
+    "url": "https://github.com/Densaugeo/Densaugeo.github.io.git"
   },
   "scripts": {},
   "config": {},
