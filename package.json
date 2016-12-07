@@ -17,7 +17,7 @@
   "scripts": {},
   "config": {},
   "dependencies": {
-    "castle": "git://github.com/Densaugeo/Castle.git#0.1.2",
+    "castle": "git://github.com/Densaugeo/Castle.git#0.1.4",
     "font-awesome": "~4.5.0",
     "hematite": "git://github.com/Densaugeo/Hematite.git#1.1.1",
     "mars": "git://github.com/Densaugeo/mars.git#0.1.0",
